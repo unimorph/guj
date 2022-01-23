@@ -1,0 +1,2 @@
+# guj
+Gujarati
