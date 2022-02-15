@@ -20,15 +20,15 @@ Khuyagbaatar Batsuren
 Aryaman Arora
 
 ## Paradigm Samples
-નિપાળો	નિપાળો	N;MASC;NOM;SG
-નિપાળો	નિપાળા	N;MASC;NOM;PL
-નિપાળો	નિપાળાઓ	N;MASC;NOM;PL
-નિપાળો	નિપાળા	N;MASC;OBL+VOC;SG
-નિપાળો	નિપાળાઓ	N;MASC;OBL+VOC;PL
-નિપાળો	નિપાળે	N;MASC;INS;SG
-નિપાળો	નિપાળાએ	N;MASC;INS;PL
-નિપાળો	નિપાળે	N;MASC;LOC;SG
-નિપાળો	નિપાળે	N;MASC;LOC;PL
+નિપાળો	નિપાળો	N;MASC;NOM;SG <br />
+નિપાળો	નિપાળા	N;MASC;NOM;PL <br />
+નિપાળો	નિપાળાઓ	N;MASC;NOM;PL <br />
+નિપાળો	નિપાળા	N;MASC;OBL+VOC;SG <br />
+નિપાળો	નિપાળાઓ	N;MASC;OBL+VOC;PL <br />
+નિપાળો	નિપાળે	N;MASC;INS;SG <br />
+નિપાળો	નિપાળાએ	N;MASC;INS;PL <br />
+નિપાળો	નિપાળે	N;MASC;LOC;SG <br />
+નિપાળો	નિપાળે	N;MASC;LOC;PL <br />
 
 ## Language Specifics
 LGSPEC1 - Conjunctive <br />
