@@ -16,8 +16,8 @@ Source:
 
 ## Contributors
 
-Khuyagbaatar Batsuren
-Aryaman Arora
+Aryaman Arora (Role: Annotation) <br/>
+Khuyagbaatar Batsuren (Role: Conversion, Annotation)  
 
 ## Paradigm Samples
 નિપાળો	નિપાળો	N;MASC;NOM;SG <br />
