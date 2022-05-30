@@ -7,6 +7,7 @@ Contains Gujarati paradigms including: nouns, and verbs.
 
 Source:
 - `guj`: English Wiktionary
+- `guj_ddu`: Dharmsinh Desai University
 
 ## Statistics
 
@@ -16,8 +17,15 @@ Source:
 
 ## Contributors
 
+`guj_ddu` <br/>
+
+Jatayu H. Baxi ( jatayubaxi.ce@ddu.ac.in)
+Brijesh S. Bhatt ( brij.ce@ddu.ac.in)
+
+`guj` <br/>
 Aryaman Arora (role: annotation) <br/>
 Khuyagbaatar Batsuren (role: conversion, annotation)  
+
 
 ## Paradigm Samples
 નિપાળો	નિપાળો	N;MASC;NOM;SG <br />
