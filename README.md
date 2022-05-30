@@ -41,6 +41,12 @@ LGSPEC4 - Contrafactual <br />
 
 ## References
 ```
+@article{baxi2021morpheme,
+  title={Morpheme Boundary Detection \& Grammatical Feature Prediction for Gujarati: Dataset \& Model},
+  author={Baxi, Jatayu and Bhatt, Dr and others},
+  journal={arXiv preprint arXiv:2112.09860},
+  year={2021}
+}
 
 ```
 
