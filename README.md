@@ -6,7 +6,7 @@ Contains Gujarati paradigms including: nouns, and verbs.
 ## Data
 
 Source:
-- `guj`: English Wiktionary
+- `guj`: English Wiktionary <br/>
 - `guj_ddu`: Dharmsinh Desai University
 
 ## Statistics
