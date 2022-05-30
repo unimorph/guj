@@ -11,6 +11,9 @@ Source:
 
 ## Statistics
 
+`guj_ddu` <br/>
+- **Total inflectional forms:** 16,522
+
 `guj` <br/>
 - **Verb lemmas:** 92
 - **Noun lemmas:** 307
