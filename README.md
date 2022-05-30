@@ -11,6 +11,7 @@ Source:
 
 ## Statistics
 
+`guj` <br/>
 - **Verb lemmas:** 92
 - **Noun lemmas:** 307
 - **Total inflectional forms:** 7,505
